@@ -5,7 +5,7 @@ Wer MyDealz kennt, weiß: Bei beliebten Deals mit hunderten Antworten dauert es 
 Das Besondere an diesem Repository: Du benötigst absolut keine Browser-Erweiterung (wie Tampermonkey). Das Skript läuft als einfaches Lesezeichen (Bookmarklet) komplett nativ in deinem Browser!  
 Ich habe auch Versionen mit Tampermonkey erstellt, was ich persönlich angenehmer finde: https://github.com/Nergico/MyDealz-Kommentarsuche-Tampermonkey
 
-** Die 3 Varianten (Wähle deinen Favoriten)**  
+**Die 3 Varianten (Wähle deinen Favoriten)**  
 Je nachdem, wie du MyDealz am liebsten nutzt, stehen drei verschiedene Versionen des Lesezeichens zur Verfügung. Wähle einfach den Code-Block deiner gewünschten Variante aus.  
 
 **🔹 Variante 1: Pro-Suche (Die aktuellste Version mit erweiterten Funktionen)**  
